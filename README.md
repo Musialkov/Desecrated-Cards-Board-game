@@ -4,6 +4,8 @@ The game provides 3 game modes. Each of them generates a different number of pai
 
 You can see the final result here: https://youtu.be/z0MksAqExO4
 
+You can play the game here: https://musialkov.itch.io/desecrated-cards
+
 # Screenshots
 <img src="https://user-images.githubusercontent.com/69191839/185054414-f62d5c65-caa6-4626-abd0-79770a68298c.png" width="891" height="500">
 <img src="https://user-images.githubusercontent.com/69191839/185054421-6b15c0dc-0f94-4a77-bc6b-750c58c3a173.png" width="891" height="500">
