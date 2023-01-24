@@ -1,5 +1,5 @@
 # Desecrated Cards
-Desecrated Cards is a memory board game created by using Unity engine. 
+**Desecrated Cards** is a memory board game created by using **Unity engine**. 
 The game provides 3 game modes. Each of them generates a different number of pairs of cards, which affects the difficulty level.
 
 You can see the final result here: https://youtu.be/z0MksAqExO4
